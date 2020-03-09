@@ -11,5 +11,5 @@ class Project
     Backer.new(project_name, self)
   end
 
-  
+
 end
