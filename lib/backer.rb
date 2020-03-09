@@ -6,7 +6,7 @@ class Backer
     @name = name
     @backed_projects = []
   end
-  #takes a name on initilization accessible through attr_reader 
+  #takes a name on initilization accessible through attr_reader
   #initialized with backed_projects attr = to empty array
 
   def back_project(project_name)
